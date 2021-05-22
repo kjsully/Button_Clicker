@@ -1,0 +1,44 @@
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+h1 {
+    color: salmon;
+    text-align: center;
+    font-family: monospace;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#clickcounter {
+    margin: auto;
+    color: red;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.container {
+    background-color: rgb(5, 37, 131);
+    height: auto;
+    padding: 50px;;
+}
+
+#demo {
+    font-size: 100px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 900;
+    margin: auto;
+}
